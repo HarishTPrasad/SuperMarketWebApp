@@ -27,4 +27,6 @@ The super market management system that we built is functional but after we give
 
 ### Team
 
-5. **HARISH PRASAD**
+1. **HARISH PRASAD**
+
+2. **SAHIL SINGH**
